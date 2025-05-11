@@ -3,7 +3,7 @@ Scriptorium是一个开放的人文学科资源仓库，收录我个人整理、
 
 ## 🛠 技术流程
 
-- PDF → OCR → Markdown（使用 [Minereu](https://github.com/minereu/minereu) 转换）
+- PDF → OCR → Markdown（使用Minereu转换）
 - 清洗 + Prompt 优化（借助 Gemini / ChatGPT 进行语义与格式润色）
 - 本地管理（Obsidian 作为主笔记库 + Cursor 语义交互）
 
